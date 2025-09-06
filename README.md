@@ -16,7 +16,6 @@ This project predicts a student's chance of admission to a graduate program base
 ## About the Dataset
 
 The dataset used in this project is `Admission_Predict_Ver1.1.csv`. It contains the following features:
-
 - **GRE Score:** Graduate Record Examination score (out of 340).
 - **TOEFL Score:** Test of English as a Foreign Language score (out of 120).
 - **University Rating:** Rating of the university (out of 5).
